@@ -1,0 +1,43 @@
+.tagContainer {
+  position: relative;
+  width: 100%;
+  background-color: #e3e3e7;
+  display: inline-block;
+
+  margin-bottom: 2rem;
+}
+.image {
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: auto;
+  width: 100%;
+  height: auto;
+  margin: 0 auto;
+}
+
+.tag {
+  bottom: 0;
+  left: 0;
+  right: 0;
+  margin: 0 auto;
+  display: block;
+  padding: 5px 10px;
+  background-color: #e3e3e7;
+  color: #6f6f6f;
+}
+
+.description {
+  display: none;
+  position: absolute;
+  bottom: -30px;
+  left: 50%;
+  transform: translateX(-50%);
+  padding: 5px;
+  background-color: #e3e3e7;
+  box-shadow: 0 0 5px rgba(0, 0, 0, 0.5);
+}
+
+.tagContainer:hover .description {
+  display: block;
+}
