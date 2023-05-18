@@ -27,24 +27,23 @@ const Experience = () => {
                 </h6>
                 <ol>
                   <li>
-                    Designing and developing dynamic, interactive and fully
+                    Designed and developed dynamic, interactive and fully
                     responsive websites that ensured high traffic, page views
                     and user experience making use of ReactJS.
                   </li>
                   <li>
-                    Creating various CRUD apps that allow users to create,
+                    Created various CRUD apps that allow users to create,
                     delete, update, and read details from the database with
                     ReactJs
                   </li>
                   <li>
-                    Using understanding of React fundamentals to promote better
+                    Used understanding of React fundamentals to promote better
                     component life cycle practices.
                   </li>
                   <li>
-                    Conceptualizing and enforcing testing and automation
-                    practices that led to a 90% reduction in reported software
-                    bugs and a 50% increase in overall customer happiness
-                    ratings.
+                    Conceptualized and enforced testing and automation practices
+                    that led to a 90% reduction in reported software bugs and a
+                    50% increase in overall customer happiness ratings.
                   </li>
                 </ol>
                 {/* <div className="row" style={{ display: "flex" }}>
